@@ -1,6 +1,4 @@
 import './style.css'
-import javascriptLogo from './javascript.svg'
-import viteLogo from '/vite.svg'
 import { clickButton } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
